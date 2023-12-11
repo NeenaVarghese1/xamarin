@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "daWOkAtGo0FcTQwBCzxl3OEub/XU488UvpMlRGIoRsdwWmzCuFwOLjocUMvWNj/5sw+pldWHf8jXiTKhQkTr0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neena\\Desktop\\butterfly\\App6\\App6.iOS\\App6.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neena\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\neena\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\neena\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
